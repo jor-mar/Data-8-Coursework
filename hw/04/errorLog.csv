@@ -1,0 +1,21 @@
+0,NameError,name 'burrito_types' is not defined,0,,2024-09-14 21:37:57.948455
+1,TypeError,Table.join() missing 1 required positional argument: 'other',0,,2024-09-14 21:38:12.513999
+2,AttributeError,'Table' object has no attribute 'joins',0,,2024-09-16 04:58:08.301539
+3,AttributeError,'Table' object has no attribute 'joins',0,,2024-09-16 05:00:39.376851
+4,ValueError,[ 0  1  2  3  4  5  6  7  8  9 10 11 12 13 14] is not a label or index,0,,2024-09-16 05:20:54.045672
+5,ValueError,"The column ""$"" is not in the table. The table contains these columns: Name, Yelp, Google, Overall, Menu_Item, Cost",0,,2024-09-16 05:26:02.378229
+6,AttributeError,type object 'are' has no attribute 'less_than',0,,2024-09-16 05:29:04.695042
+7,SyntaxError,"invalid syntax (1066187711.py, line 11)",0,,2024-09-16 05:35:44.625651
+8,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2024-09-16 05:35:51.281334
+9,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2024-09-16 05:36:28.173118
+10,SyntaxError,"'(' was never closed (2514670148.py, line 11)",0,,2024-09-16 05:39:37.458394
+11,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2024-09-16 05:39:41.423745
+12,ValueError,The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(),0,,2024-09-16 05:46:13.950089
+13,AttributeError,'Table' object has no attribute 'relabled',0,,2024-09-16 05:48:06.777644
+14,NameError,name 'Jobs' is not defined,0,,2024-09-16 05:48:18.087590
+15,SyntaxError,"expected ':' (3658002606.py, line 2)",0,,2024-09-16 05:59:52.683990
+16,ValueError,"The column ""Compensation Range"" is not in the table. The table contains these columns: Job, Department, Organization Group, Total Compensation",0,,2024-09-16 06:05:46.142012
+17,ValueError,"The column ""Compensation Range"" is not in the table. The table contains these columns: Job, Department, Organization Group, Total Compensation",0,,2024-09-16 06:07:32.139853
+18,ValueError,"The column ""Compensation Range"" is not in the table. The table contains these columns: Department, Organization Group, Total Compensation",0,,2024-09-16 06:13:10.854816
+19,NameError,name 'dept_and_comp' is not defined,0,,2024-09-16 06:35:14.551826
+20,ValueError,"label ""Total Comepensation mean"" not in labels ('Department', 'Total Compensation mean')",0,,2024-09-16 06:35:24.816041
