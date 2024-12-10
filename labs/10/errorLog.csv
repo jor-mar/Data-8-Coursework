@@ -1,0 +1,4 @@
+0,AssertionError,,0,,2024-12-06 00:19:06.251410
+1,TypeError,values requires collect to be specified,0,,2024-12-06 00:27:16.252996
+2,TypeError,values requires collect to be specified,0,,2024-12-06 00:27:48.515614
+3,NameError,name 'identity' is not defined,0,,2024-12-06 00:29:18.982404
