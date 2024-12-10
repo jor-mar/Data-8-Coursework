@@ -1,0 +1,12 @@
+0,ValueError,The column 'Maternal Smoker' contains non-numerical values. A plot cannot be drawn for this column.,0,,2024-11-06 09:31:19.398947
+1,ValueError,The column 'Maternal Smoker' contains non-numerical values. A plot cannot be drawn for this column.,0,,2024-11-06 09:31:45.980579
+2,ValueError,The column 'Maternal Smoker' contains non-numerical values. A plot cannot be drawn for this column.,0,,2024-11-06 09:32:01.058881
+3,ValueError,The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(),0,,2024-11-06 09:32:23.821645
+4,ValueError,"label ""Maternal height"" not in labels ('Birth Weight', 'Gestational Days', 'Maternal Age', 'Maternal Height', 'Maternal Pregnancy Weight', 'Maternal Smoker')",0,,2024-11-06 09:32:40.236847
+5,ValueError,"The column ""Maternal height"" is not in the table. The table contains these columns: Birth Weight, Gestational Days, Maternal Age, Maternal Height, Maternal Pregnancy Weight, Maternal Smoker",0,,2024-11-06 09:33:15.427699
+6,ValueError,"label ""Maternal height"" not in labels ('Maternal Height',)",0,,2024-11-06 09:33:32.360286
+7,ValueError,"Number of rows must be a positive integer, not 0",0,,2024-11-06 09:33:58.779574
+8,ValueError,The column 'Maternal Smoker' contains non-numerical values. A plot cannot be drawn for this column.,0,,2024-11-06 09:34:09.506365
+9,ValueError,"Number of rows must be a positive integer, not 0",0,,2024-11-06 09:34:44.085438
+10,TypeError,'<=' not supported between instances of 'function' and 'function',0,,2024-11-06 09:45:56.395831
+11,ValueError,"The column ""salaries"" is not in the table. The table contains these columns: salary",0,,2024-11-06 09:48:49.023450
