@@ -1,0 +1,2 @@
+0,NameError,name 'grader' is not defined,0,,2024-11-18 08:29:16.555635
+1,TypeError,fit_line() missing 1 required positional argument: 'y_col',0,,2024-11-18 08:44:46.587443
