@@ -1,0 +1,18 @@
+0,TypeError,Cannot interpret '3' as a data type,0,,2024-09-24 06:19:40.988259
+1,TypeError,sum() takes at most 2 arguments (4 given),0,,2024-09-24 06:19:48.186440
+2,TypeError,sum() takes at most 2 arguments (4 given),0,,2024-09-24 06:20:01.410443
+3,TypeError,Cannot interpret '3' as a data type,0,,2024-09-24 06:20:19.885226
+4,NameError,name 'game' is not defined,0,,2024-09-24 06:23:56.628014
+5,TypeError,'numpy.ndarray' object is not callable,0,,2024-09-24 06:24:10.299920
+6,ValueError,[1 2 3 4] is not a label or index,0,,2024-09-24 06:25:25.812198
+7,ValueError,"('Labels (array([14,  6, 14,  7,  6,  7, 10, 10,  0,  0,  0,  3]), array([ 0, 13,  7,  3,  0,  0, 13,  7,  0, 14, 14, 14]), array([ 0,  0, 14,  7,  0,  3,  0, 14,  3, 13,  0,  0]), array([ 3, 13,  7,  7,  0,  7,  3,  8,  0, 14,  0,  7])) contain more than list.', 'Pass just one list of labels.')",0,,2024-09-24 06:25:49.420477
+8,TypeError,'numpy.ndarray' object is not callable,0,,2024-09-24 06:26:16.925066
+9,SyntaxError,"expected ':' (4278111776.py, line 4)",0,,2024-09-24 06:29:55.310694
+10,IndexError,"only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices",0,,2024-09-24 06:30:02.904660
+11,TypeError,'str' object cannot be interpreted as an integer,0,,2024-09-24 06:31:57.089007
+12,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2024-09-24 06:35:42.313354
+13,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2024-09-24 06:36:01.525364
+14,IndexError,index 12 is out of bounds for axis 0 with size 12,0,,2024-09-24 06:36:22.983831
+15,IndexError,index 12 is out of bounds for axis 0 with size 12,0,,2024-09-24 06:36:35.951190
+16,SyntaxError,"invalid syntax (3676684896.py, line 2)",0,,2024-09-24 06:39:27.500215
+17,IndexError,"only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices",0,,2024-09-24 06:41:38.972741
