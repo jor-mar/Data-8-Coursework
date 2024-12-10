@@ -1,0 +1,27 @@
+0,AttributeError,'numpy.ndarray' object has no attribute 'column',0,,2024-12-05 08:13:28.925657
+1,AttributeError,'ellipsis' object has no attribute 'num_rows',0,,2024-12-05 08:19:31.539661
+2,AttributeError,'numpy.ndarray' object has no attribute 'sample',0,,2024-12-05 08:20:51.195197
+3,TypeError,row_to_array() missing 1 required positional argument: 'features',0,,2024-12-05 08:29:39.284739
+4,TypeError,unsupported operand type(s) for -: 'numpy.str_' and 'numpy.str_',0,,2024-12-05 08:29:59.909274
+5,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2024-12-05 08:31:16.293459
+6,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2024-12-05 08:32:24.271408
+7,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2024-12-05 08:34:44.222473
+8,ValueError,"label ""distance count"" not in labels ('distance', 'count')",0,,2024-12-05 08:35:29.777332
+9,ValueError,"The column ""school"" is not in the table. The table contains these columns: distance, count",0,,2024-12-05 08:35:58.344572
+10,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2024-12-05 08:37:29.398557
+11,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2024-12-05 08:37:59.669817
+12,ValueError,"The column ""school"" is not in the table. The table contains these columns: distance, count",0,,2024-12-05 08:38:54.160740
+13,ValueError,"The column ""school"" is not in the table. The table contains these columns: distance, count",0,,2024-12-05 08:41:51.445681
+14,ValueError,"The column ""school"" is not in the table. The table contains these columns: distance, count",0,,2024-12-05 08:42:04.732097
+15,ValueError,"The column ""school"" is not in the table. The table contains these columns: distance, count",0,,2024-12-05 08:42:08.279253
+16,ValueError,"The column ""school"" is not in the table. The table contains these columns: distance, count",0,,2024-12-05 08:42:20.859287
+17,ValueError,"The column ""school"" is not in the table. The table contains these columns: distance, count",0,,2024-12-05 08:42:27.460920
+18,ValueError,"The column ""school"" is not in the table. The table contains these columns: distance, count",0,,2024-12-05 08:42:32.998028
+19,ValueError,"The column ""school"" is not in the table. The table contains these columns: distance, count",0,,2024-12-05 08:43:07.913603
+20,ValueError,"The column ""school"" is not in the table. The table contains these columns: distance, count",0,,2024-12-05 08:44:39.006139
+21,UnboundLocalError,local variable 'most_common_label' referenced before assignment,0,,2024-12-05 08:47:34.442573
+22,UnboundLocalError,local variable 'most_common_label' referenced before assignment,0,,2024-12-05 08:52:29.597289
+23,IndexError,"only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices",0,,2024-12-05 09:28:49.328541
+24,TypeError,three_classify() takes 1 positional argument but 2 were given,0,,2024-12-05 09:29:14.606238
+25,IndexError,"only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices",0,,2024-12-05 09:31:27.927224
+26,ValueError,"The column ""prediction"" is not in the table. The table contains these columns: latitude, longitude, school",0,,2024-12-05 09:35:03.886019
