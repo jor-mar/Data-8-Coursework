@@ -1,0 +1,7 @@
+0,NameError,name 'unemployment' is not defined,0,,2024-09-10 00:17:06.822639
+1,NameError,name 'greatest_nei' is not defined,0,,2024-09-10 00:23:41.121405
+2,NameError,name 'greatest_nei' is not defined,0,,2024-09-10 00:23:48.855392
+3,NameError,name 'math' is not defined,0,,2024-09-10 00:44:45.325570
+4,AttributeError,type object 'are' has no attribute 'equal',0,,2024-09-10 00:50:29.694298
+5,AttributeError,module 'math' has no attribute 'median',0,,2024-09-10 01:11:52.104026
+6,NameError,name 'median' is not defined,0,,2024-09-10 01:12:07.229820
